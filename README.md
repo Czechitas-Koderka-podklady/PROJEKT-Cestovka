@@ -46,7 +46,7 @@ Cílem projektu je procvičit si použití různých technik:
 
 ## Grafické zadání
 
-Všechny potřebné obrázky, rozměry, použitá písma, barvy, apod. najdeš online v [grafickém návrhu vyexportovaném z Adobe XD](https://xd.adobe.com/view/50cee100-59ff-473d-b34a-cbf85b2a7b04-059d//grid/).
+Všechny potřebné obrázky, rozměry, použitá písma, barvy, apod. najdeš online v [grafickém návrhu vyexportovaném z Adobe XD](https://xd.adobe.com/view/50cee100-59ff-473d-b34a-cbf85b2a7b04-059d/grid/).
 
 Pro případ, že bys chtěla pracovat offline nebo si chtěla s návrhem hrát, ve složce *Adobe-DX-navrh* máš k dispozici soubor *Cestovka.xd*, který si můžeš otevřít v Adobe XD u sebe na počítači (máš-li Adobe XD nainstalované). Pro vypracování úkolu to není nutné - stačí ti online verze, na kterou je odkaz o odstavec výše.
 
